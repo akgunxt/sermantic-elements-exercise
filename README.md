@@ -1,4 +1,4 @@
-# sermantic-elements-exercise
+# semantic-elements-exercise
 
 ## bugün logoya tıklandığında instagram adresimize yönlendiren logo,
 
